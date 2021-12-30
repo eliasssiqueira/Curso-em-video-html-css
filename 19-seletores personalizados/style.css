@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+body{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.aprendendo{
+    color: rgb(50, 174, 205);
+}
+.basico{
+    color: rgb(174, 50, 205);
+}
+.intermediario{
+    color: rgb(104, 50, 205);
+}
+.avancado{
+    color: rgb(205, 50, 50);
+}
